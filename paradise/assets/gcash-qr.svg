@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" fill="none">
+  <rect width="220" height="220" rx="24" fill="#F4FFFF"/>
+  <rect x="18" y="18" width="184" height="184" rx="18" fill="white" stroke="#BDE7E2" stroke-width="4"/>
+  <rect x="34" y="34" width="42" height="42" rx="8" fill="#009688"/>
+  <rect x="44" y="44" width="22" height="22" rx="4" fill="#fff"/>
+  <rect x="144" y="34" width="42" height="42" rx="8" fill="#009688"/>
+  <rect x="154" y="44" width="22" height="22" rx="4" fill="#fff"/>
+  <rect x="34" y="144" width="42" height="42" rx="8" fill="#009688"/>
+  <rect x="44" y="154" width="22" height="22" rx="4" fill="#fff"/>
+  <rect x="96" y="36" width="10" height="10" fill="#173C3C"/>
+  <rect x="112" y="36" width="10" height="10" fill="#173C3C"/>
+  <rect x="128" y="36" width="10" height="10" fill="#173C3C"/>
+  <rect x="96" y="52" width="10" height="10" fill="#173C3C"/>
+  <rect x="112" y="52" width="10" height="10" fill="#173C3C"/>
+  <rect x="96" y="68" width="10" height="10" fill="#173C3C"/>
+  <rect x="112" y="68" width="10" height="10" fill="#173C3C"/>
+  <rect x="128" y="68" width="10" height="10" fill="#173C3C"/>
+  <rect x="96" y="96" width="10" height="10" fill="#173C3C"/>
+  <rect x="112" y="96" width="10" height="10" fill="#173C3C"/>
+  <rect x="128" y="96" width="10" height="10" fill="#173C3C"/>
+  <rect x="144" y="96" width="10" height="10" fill="#173C3C"/>
+  <rect x="160" y="96" width="10" height="10" fill="#173C3C"/>
+  <rect x="96" y="112" width="10" height="10" fill="#173C3C"/>
+  <rect x="128" y="112" width="10" height="10" fill="#173C3C"/>
+  <rect x="160" y="112" width="10" height="10" fill="#173C3C"/>
+  <rect x="96" y="128" width="10" height="10" fill="#173C3C"/>
+  <rect x="112" y="128" width="10" height="10" fill="#173C3C"/>
+  <rect x="144" y="128" width="10" height="10" fill="#173C3C"/>
+  <rect x="160" y="128" width="10" height="10" fill="#173C3C"/>
+  <rect x="96" y="144" width="10" height="10" fill="#173C3C"/>
+  <rect x="128" y="144" width="10" height="10" fill="#173C3C"/>
+  <rect x="144" y="144" width="10" height="10" fill="#173C3C"/>
+  <rect x="160" y="144" width="10" height="10" fill="#173C3C"/>
+  <rect x="96" y="160" width="10" height="10" fill="#173C3C"/>
+  <rect x="112" y="160" width="10" height="10" fill="#173C3C"/>
+  <rect x="128" y="160" width="10" height="10" fill="#173C3C"/>
+  <rect x="144" y="160" width="10" height="10" fill="#173C3C"/>
+  <rect x="160" y="160" width="10" height="10" fill="#173C3C"/>
+  <text x="110" y="207" text-anchor="middle" fill="#00796B" font-family="Arial, sans-serif" font-size="16" font-weight="700">GCash QR</text>
+</svg>
